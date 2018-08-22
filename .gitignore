@@ -1,0 +1,13 @@
+*.project
+*/target
+*.settings
+*.classpath
+*.DS_Store
+/target
+*/bin
+*/neo4j-gc.log
+*.iml
+.idea
+qa-ws-wiremock/test-output/*
+test-output/
+.metadata/
