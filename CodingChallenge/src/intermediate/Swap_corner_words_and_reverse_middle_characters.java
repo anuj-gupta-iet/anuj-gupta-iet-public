@@ -1,3 +1,5 @@
+package intermediate;
+
 import java.util.Arrays;
 
 public class Swap_corner_words_and_reverse_middle_characters {

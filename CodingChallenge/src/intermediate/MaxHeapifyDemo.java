@@ -1,3 +1,5 @@
+package intermediate;
+
 
 public class MaxHeapifyDemo {
 	public static void main(String[] args) {

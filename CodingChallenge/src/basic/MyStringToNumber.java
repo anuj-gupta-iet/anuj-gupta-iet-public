@@ -1,3 +1,5 @@
+package basic;
+
 
 public class MyStringToNumber {
 	public static void main(String[] args) {

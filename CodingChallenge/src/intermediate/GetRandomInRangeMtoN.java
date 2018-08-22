@@ -1,3 +1,5 @@
+package intermediate;
+
 import java.util.Random;
 
 public class GetRandomInRangeMtoN {

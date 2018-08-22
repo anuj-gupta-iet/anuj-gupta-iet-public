@@ -1,3 +1,5 @@
+package intermediate;
+
 
 public class Highest_power_of_2_less_than_or_equal_to_given_number {
 	public static void main(String[] args) {

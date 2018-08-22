@@ -1,3 +1,5 @@
+package expert;
+
 
 public class Count_all_possible_paths_matrix {
 	static int numberOfPaths(int m, int n) {
